@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395373292218",
+    "firebase_url": "https://sistem-absensi-mirota.firebaseio.com",
+    "project_id": "sistem-absensi-mirota",
+    "storage_bucket": "sistem-absensi-mirota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395373292218:android:751e6f7c44c127d123b083",
+        "android_client_info": {
+          "package_name": "com.example.sistem_absensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395373292218-04f7008q6lk0n5humldukl0t90d445fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5i5Puuz8INZXpGoFgH1STeN75QRqAKfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395373292218-04f7008q6lk0n5humldukl0t90d445fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
