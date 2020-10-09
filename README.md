@@ -1,6 +1,6 @@
-# sistem_absensi
+# Flutter Login & Sign Up
 
-Sistem Absensi  PT. Mirota KSM.
+Menggunakan back-end firebase dengan autentikasi email & password.
 
 ## Getting Started
 
