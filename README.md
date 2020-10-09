@@ -4,7 +4,7 @@ Menggunakan back-end firebase dengan autentikasi email & password.
 
 ## Screenshots
 
-<img src="assets/github/Screenshot.png" width="200">
+<img src="Screenshot.png" width="200">
 
 ## Getting Started
 
