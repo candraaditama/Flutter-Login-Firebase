@@ -1,4 +1,4 @@
-# Flutter Login & Sign Up
+# Flutter Login & Sign Up Firebase
 
 Menggunakan back-end firebase dengan autentikasi email & password.
 
