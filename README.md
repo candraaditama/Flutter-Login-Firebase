@@ -2,6 +2,10 @@
 
 Menggunakan back-end firebase dengan autentikasi email & password.
 
+## Screenshots
+
+<img src="assets/github/Screenshot.png" width="200">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
